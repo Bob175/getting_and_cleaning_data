@@ -4,4 +4,4 @@
 	3. Place the script file in the new "UCI HAR Dataset" directory
 	4. Load the script file with source("run_analysis.R") in R
 	
-The output file will be saved to the current working directory.
+The output *.csv file will be saved to the current working directory.
